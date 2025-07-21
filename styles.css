@@ -12,6 +12,10 @@ body {
     background-color: #D0E7FF;
 }
 
+a:hover {
+    font-weight: bolder;
+}
+
 #introduction {
     background-color: #FFF9D6;
 }
